@@ -10,8 +10,7 @@ import { RESET_STATE } from './shared/reset';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  templateUrl: './app.component.html'
   // changeDetetection: ChangeDetectionStrategy.OnPush
 
 })
