@@ -4,8 +4,7 @@ import {  SHOW_ATTENDING,  SHOW_ALL,  SHOW_WITH_GUESTS} from '../../shared/actio
 
 @Component({
   selector: 'app-filter-select',
-  templateUrl: './filter-select.component.html',
-  styleUrls: ['./filter-select.component.css']
+  templateUrl: './filter-select.component.html'
 })
 export class FilterSelectComponent {
   public filters = [
