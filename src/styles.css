@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+
+.attending {
+    color: green;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+body {
+    margin-top: 200px;
+    text-align: center;
+    min-height: 600px;
+    max-height: 1000px;
+    min-width: 600px;
+    max-width: 1400px;
+    background: url("home_image.jpg") no-repeat 100% 100% fixed;
+    background-size: cover;
+}
